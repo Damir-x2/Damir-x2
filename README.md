@@ -9,4 +9,7 @@
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Damir-x2&theme=gotham" alt="Damir-x2's profile details" />
   </a>
-  
+
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/Damir-x2/Damir-x2/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  </p>
