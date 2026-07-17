@@ -1,13 +1,8 @@
 ## Hi there 👋
 
 <div align="center">
-
-  <!-- GitHub statistics -->
-  <a href="https://github.com/stats-organization/github-stats-extended">
-    <img
-      src="https://github-stats-extended.vercel.app/api?username=Damir-x2&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=gotham"
-      alt="Damir-x2's GitHub stats"
-    />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.zohan.tech/api?username=Damir-x2&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=gotham" alt="Damir-x2's GitHub stats" />
   </a>
 
   <br /><br />
